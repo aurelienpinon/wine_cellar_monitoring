@@ -1,0 +1,15 @@
+# ========================================
+# Fichiers et dossiers personnels
+# ========================================
+
+# Dossiers Power BI et ressources
+/communication/
+/dashboard/
+/ressources/
+
+# Fichier Excel personnel
+/Cave_Papa*
+
+# Documents personnels
+/Notes projet*
+/Personal*
