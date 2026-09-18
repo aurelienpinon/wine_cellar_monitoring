@@ -40,27 +40,25 @@ ________________
 
 ## Dashboard Preview
 
-To be completed
+![Overview](screenshots/1-Overview.png)
 
-![Overview](screenshots/1- Overview.png)
+![Finance](screenshots/2-Finance.png)
 
-![Finance](screenshots/2 - Finance.png)
+![Diversity](screenshots/3-Diversity.png)
 
-![Diversity](screenshots/3 - Diversity.png)
+![Cellar_Ballance](screenshots/4-Cellar Ballance.png)
 
-![Cellar_Ballance](screenshots/4 - Cellar Ballance.png)
+![Vintages](screenshots/5-Vintages.png)
 
-![Vintages](screenshots/5 - Vintages.png)
+![Grapes](screenshots/6-Grapes.png)
 
-![Grapes](screenshots/6 - Grapes.png)
+![Peak](screenshots/7-Peak.png)
 
-![Peak](screenshots/7 - Peak.png)
+![Inventory](screenshots/8-Inventory.png)
 
-![Inventory](screenshots/8 - Inventory.png)
+![Geography](screenshots/9-Geography.png)
 
-![Geography](screenshots/9 - Geography.png)
-
-![Wine_Pairing](screenshots/10 - Wine Pairing.png)
+![Wine_Pairing](screenshots/10-Wine Pairing.png)
 
 
 ________________
