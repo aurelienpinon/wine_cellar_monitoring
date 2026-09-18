@@ -46,7 +46,7 @@ ________________
 
 ![Diversity](screenshots/3-Diversity.png)
 
-![Cellar_Ballance](screenshots/4-Cellar Ballance.png)
+![Cellar_Ballance](screenshots/4-Cellar_Ballance.png)
 
 ![Vintages](screenshots/5-Vintages.png)
 
@@ -58,7 +58,7 @@ ________________
 
 ![Geography](screenshots/9-Geography.png)
 
-![Wine_Pairing](screenshots/10-Wine Pairing.png)
+![Wine_Pairing](screenshots/10-Wine_Pairing.png)
 
 
 ________________
